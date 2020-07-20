@@ -11,7 +11,7 @@
     "browser-resolve": "~1.2.4",
     "concat-stream": "~1.4.5",
     "detective": "~3.1.0",
-    "duplexer2": "0.0.2",
+    "duplexer2": "0.1.4",
     "inherits": "~2.0.1",
     "minimist": "~0.0.9",
     "parents": "0.0.2",
