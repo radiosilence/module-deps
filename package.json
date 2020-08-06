@@ -14,7 +14,7 @@
     "duplexer2": "0.1.4",
     "inherits": "~2.0.1",
     "minimist": "~1.2.5",
-    "parents": "0.0.2",
+    "parents": "1.0.1",
     "resolve": "~0.6.3",
     "stream-combiner": "~0.2.2",
     "through2": "~0.4.1",
